@@ -47,3 +47,13 @@ yum makecache
 yum install ceph ceph-radosgw
 ceph -v
 ```
+
+
+
+
+
+------
+
+*@Author OppJune*
+
+[BACK](

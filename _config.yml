@@ -1,1 +1,7 @@
 theme: jekyll-theme-hacker
+
+# Site settings
+title: OppJune Blog
+SEOTitle: OppJune Blog
+email: lushy14@lzu.edu.cn
+description: "Touch the fish"

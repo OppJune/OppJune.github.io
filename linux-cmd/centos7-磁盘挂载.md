@@ -42,3 +42,12 @@ mount /dev/sda1 /mydata # 挂载
 df -h
 ```
 
+
+
+
+
+------
+
+*@Author OppJune*
+
+[BACK](

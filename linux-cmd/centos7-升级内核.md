@@ -102,3 +102,12 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 4.15.6-1.el7.elrepo.x86_64
 ```
 
+
+
+
+
+------
+
+*@Author OppJune*
+
+[BACK](
