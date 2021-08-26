@@ -45,7 +45,7 @@ win+r 打开运行，输入cmd后回车，打开命令提示符工具
 ------
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_page_pv">本文阅读量<span id="busuanzi_value_site_pv"></span>次</span>
+<span id="busuanzi_container_page_pv">本文阅读量<span id="busuanzi_value_page_pv"></span>次</span>
 
 <br />
 
