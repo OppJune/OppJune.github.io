@@ -109,12 +109,17 @@ git checkout -- aaa.html
 # revert和reset的区别：reset是将head往后退而revert执行后head继续前行
 ```
 
-
-
-
+<br /><br />
 
 ------
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本文总访问量<span id="busuanzi_value_site_pv"></span>次<br /></span><span id="busuanzi_container_site_uv">本文访客数<span id="busuanzi_value_site_uv"></span>人次
+</span>
+
+<br />
 
 *@Author OppJune*
 
 [BACK](../README.md)
+

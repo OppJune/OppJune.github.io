@@ -1,18 +1,12 @@
 # Welcome
 
-**今天也是想摸鱼的一天** 的博客
+**今天也是想摸鱼的一天** 的博客开张啦~
 
 ```json
-
-
-  *** *** ***   *** *** ***   *** *** ***   *** *** ***   *** *** ***   *** *** ***   
-  * * * * * *   * * * * * *   * * * * * *   * * * * * *   * * * * * *   * * * * * *
-  * *** *** ***** *** *** ***** *** *** ***** *** *** ***** *** *** ***** *** *** *
-  *         *****         *****         *****         *****         *****         *
-  *         *****         *****         *****         *****         *****         *
+*****************************************************************************************
 ```
 
-
+<br />
 
 ## Linux
 
@@ -32,24 +26,20 @@
 
 - [制作本地源](linux-cmd/centos7-制作本地源.md)
 
-
+<br /><br />
 
 ## Recreational Areas
 
-### 未命名
+### nameless
 
 - [第1章](chapter/chapter-001.md)
 
 
 
-
+<br /><br />
 
 ------
 
-
-
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
-
-<span id="busuanzi_container_site_uv">  本站访客数<span id="busuanzi_value_site_uv"></span>人次
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span><br /><span id="busuanzi_container_site_uv">本站访客数<span id="busuanzi_value_site_uv"></span>人次
 </span>
